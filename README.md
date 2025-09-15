@@ -1,1 +1,37 @@
-# .github
+0000 C# Programming
+    0100 Basics
+    0500 OOP
+    0800 Design Patterns
+    0900 Advanced C# (LINQ, Async/Await)
+
+1000 Unity Basics
+    1100 Scripting
+    1200 Components
+    1300 2D Physics & Math
+    1400 UGUI
+    1500 Data Handling (Basic)
+
+2000 Data Structures & Algorithms
+
+3000 Unity 3D
+    3100 3D Physics & Math
+    3200 Rendering
+    3300 Rendering Pipeline & SRP
+
+4000 Networking & Cloud
+    4100 Network Basics
+    4200 Async Programming (UniTask)
+    4300 Unity Multiplay
+    4400 Data Handling (Network)
+    4500 Cloud Service
+    4600 ASP .Net Core
+    4700 Database
+
+5000 Unity Advanced Paradigms
+    5100 Job System & Threading
+    5200 UniRX
+    5300 ECS/DOTS
+    5400 Data Handling (Advanced)
+    5500 Optimization Patterns
+
+6000 AI & Tools

@@ -29,14 +29,16 @@
     4600 ASP .Net Core
     4700 Database
 
-5000 Unity Advanced Paradigms
+5000 Unity XR
+
+7000 Unity Advanced Paradigms
     5100 Job System & Threading
     5200 UniRX
     5300 ECS/DOTS
     5400 Data Handling (Advanced)
     5500 Optimization Patterns
 
-6000 AI & Tools
+8000 AI & Tools
 
 9000 MiniProject
     9301 MP-3D-AirPlainGame

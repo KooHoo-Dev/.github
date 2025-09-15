@@ -37,6 +37,8 @@
     5500 Optimization Patterns
 
 6000 AI & Tools
+
+9000 MiniProject
 ```
 
 <!--

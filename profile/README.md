@@ -20,6 +20,7 @@ nav
     3100 3D Physics & Math
     3200 Rendering
     3300 Rendering Pipeline & SRP
+    3400 Animation & IK
 
 4000 Networking & Cloud
     4100 Network Basics

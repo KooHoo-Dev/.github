@@ -32,6 +32,14 @@ nav
     4700 Database
 
 5000 Unity XR
+    5001 XR Plugin
+    5100 AR & AR Foundation
+    5200 VR & XR Intraction Tool Kit
+    5300 MR & XR Intraction Tool Kit
+    5500 AR & MARS
+
+    5100 VR
+
 
 7000 Unity Advanced Paradigms
     5100 Job System & Threading

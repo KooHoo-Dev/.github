@@ -3,9 +3,10 @@ nav
 ```
 0000 C# Programming
     0100 Basics
-    0500 OOP
-    0800 Design Patterns
-    0900 Advanced C# (LINQ, Async/Await)
+    0200 OOP
+    0300 Design Patterns
+    0500 Advanced C# (LINQ, Async/Await)
+    0800 Quiz
 
 1000 Unity Basics
     1100 Scripting

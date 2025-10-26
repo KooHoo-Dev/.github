@@ -3,17 +3,18 @@ nav
 ```
 0000 C# Programming
     0100 Basics
-    0200 OOP
+    0200 C# Data Structures
     0300 Design Patterns
     0500 Advanced C# (LINQ, Async/Await)
     0800 Quiz
 
 1000 Unity Basics
-    1100 Scripting
-    1200 Components
-    1300 2D Physics & Math
-    1400 UGUI
-    1500 Data Handling (Basic)
+    1100 C# Data Structures
+    1200 Scripting
+    1300 Components
+    1400 2D Physics & Math
+    1500 UGUI
+    1600 Data Handling (Basic)
 
 2000 Data Structures & Algorithms
 

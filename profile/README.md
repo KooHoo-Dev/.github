@@ -15,6 +15,8 @@ nav
     1600 Data Handling (Basic)
 
 2000 Data Structures & Algorithms
+    2000 Data Structures
+    2500 Algorithms
 
 3000 Unity 3D
     3100 3D Physics & Math

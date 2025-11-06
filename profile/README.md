@@ -19,7 +19,8 @@ nav
     2500 Algorithms
 
 3000 Unity 3D
-    3100 3D Physics & Math
+    3000 3D Grphics & 3D Math
+    3100 3D Physics
     3200 Rendering
     3300 Rendering Pipeline & SRP
     3400 Animation & IK

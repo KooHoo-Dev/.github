@@ -54,6 +54,8 @@ nav
 8000 AI & Tools
 
 9000 MiniProject
+    9201 MP-2D-BallMerge
+    9202 MP-2D-RockManZero
     9301 MP-3D-AirplaneGame
     9302 MP-3D-FPSGame
     9303 MP-3D-BuilderGame

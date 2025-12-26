@@ -45,11 +45,12 @@ nav
 
 
 7000 Unity Advanced Paradigms
-    5100 Job System & Threading
-    5200 UniRX
-    5300 ECS/DOTS
-    5400 Data Handling (Advanced)
-    5500 Optimization Patterns
+    7001 Generic And Patterns
+    7100 Job System & Threading
+    7200 UniRX
+    7300 ECS/DOTS
+    7400 Data Handling (Advanced)
+    7500 Optimization Patterns
 
 8000 AI & Tools
 

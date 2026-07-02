@@ -1,4 +1,7 @@
-nav
+## 포트폴리오 작성 가이드
+- https://koohoo-dev.github.io/portfolio-guide/
+
+## nav
 
 ```
 0000 C# Programming

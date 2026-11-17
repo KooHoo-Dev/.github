@@ -1,5 +1,5 @@
 ## 포트폴리오 작성 가이드
-- https://koohoo-dev.github.io/portfolio-guide/
+- https://koohoo-dev.github.io/edu-lecture-portfolio-guide/
 
 ## nav
 
